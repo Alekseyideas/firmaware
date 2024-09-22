@@ -8,6 +8,33 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Firmware Update template</h1>
+  <h1>Firmware Version: <span id="version"></span></h1>
+  <h2>Firmware Link: <span id="link"></span></h2>
+  <p id="error"></p>
+
+
+  <script>
+
+    (async () => {
+      const data = await getJson();
+
+      if(data) {
+        document.getElementById('version').innerHTML = `${data.version}`
+        document.getElementById('link').innerHTML = `${data.url}`
+      } else {
+        if(document.getElementById('error'))
+          document.getElementById('error').innerHTML = `Error get data - https://firmaware.vercel.app/firmwareVersion.json`
+      }
+    })()
+
+    async function getJson() {
+      try {
+        const resp = await fetch('https://firmaware.vercel.app/firmwareVersion.json');
+        return  resp.json();
+      } catch (e){
+        return null
+      }
+    }
+  </script>
 </body>
 </html>
