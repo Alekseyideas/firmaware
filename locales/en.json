@@ -1,4 +1,10 @@
 {
-  "welcome": "Welcome",
-  "description": "This is an example of multi-language support."
+  "error_opening_url": "Error opening url",
+  "ok": "Ok",
+  "warning": "Warning",
+  "does_not_contain_information": "This QR code does not contain information about the lock.",
+  "turn_on_ble": "Please turn on BLE on your phone.",
+  "data_protection": "Data Protection Declaration",
+  "enter_admin_code": "Enter Admin Code",
+  "main_title": "Smart Locks made in Austria"
 }

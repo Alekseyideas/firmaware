@@ -1,4 +1,10 @@
 {
-  "welcome": "Добро пожаловать",
-  "description": "Это пример поддержки нескольких языков."
+  "error_opening_url": "Erreur lors de l'ouverture de l'URL",
+  "ok": "Ok",
+  "warning": "Avertissement",
+  "does_not_contain_information": "Ce code QR ne contient pas d'informations sur la serrure.",
+  "turn_on_ble": "Veuillez activer le Bluetooth sur votre téléphone.",
+  "data_protection": "Déclaration de protection des données",
+  "enter_admin_code": "Entrez le code administrateur",
+  "main_title": "Serrures intelligentes fabriquées en Autriche"
 }
