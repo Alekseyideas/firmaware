@@ -73,5 +73,6 @@
   "open": "Ouvrir",
   "closed": "Fermé",
   "Locked": "Verrouillé",
-  "isLocked": "PSLOCK est verrouillé"
+  "isLocked": "PSLOCK est verrouillé",
+  "genQr": "Générer le code QR"
 }

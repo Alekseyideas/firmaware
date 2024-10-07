@@ -73,5 +73,6 @@
   "open": "Open",
   "closed": "Closed",
   "Locked": "Locked",
-  "isLocked": "PSLOCK is Locked"
+  "isLocked": "PSLOCK is Locked",
+  "genQr": "Generate QR Code"
 }
