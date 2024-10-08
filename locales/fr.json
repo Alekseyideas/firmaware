@@ -11,10 +11,10 @@
   "save": "Sauvegarder",
   "does_not_contain_information": "Ce code QR ne contient pas d'informations sur la serrure.",
   "turn_on_ble": "Veuillez activer le BLE sur votre téléphone.",
-  "data_protection": "Déclaration de protection des données",
+  "data_protection": "Protection desdonnées",
   "Wrong_admin_code": "Code administrateur incorrect",
-  "enter_admin_code": "Entrez le code administrateur",
-  "main_title": "Serrures intelligentes fabriquées en Autriche",
+  "enter_admin_code": "Mode administrateur",
+  "main_title": "Fabriquée en Autriche",
   "enter_digit": "Entrez un code à 6 chiffres pour accéder",
   "Wrong_factory_code": "Code usine incorrect",
   "enter_factory_code": "Entrez le code usine",
@@ -74,5 +74,7 @@
   "closed": "Fermé",
   "Locked": "Verrouillé",
   "isLocked": "PSLOCK est verrouillé",
+  "failed_connect": "ECHEC DE CONNEXION",
+  "failed_connect_desc": "Essayez   à   nouveau,   si   cela   ne   fonctionne   pas,   fermez l’application. Désactivez et réactivez le Bluetooth.Réessayez.",
   "genQr": "Générer le code QR"
 }
