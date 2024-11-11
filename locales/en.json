@@ -67,15 +67,16 @@
   "TermsOfUse": "Terms of Use",
 
   "DoorIsOpen": "Door is open, locking not possible",
+  "DoorIsOpen2": "Door is not locked",
   "DoorIsOpenStep1": "1. Close door - press and hold",
   "DoorIsOpenStep2": "2. Scan QR code to lock door",
-  "DoorIsOpenBtnSuccess": "ok",
+  "DoorIsOpenBtnSuccess": "Ok",
 
   "DoorIsOpenDesc": "Door is not successfully locked, please close the door and scan QR again",
   "DoorIsOpenDesc2": "Door needs to be closed before locking, please close the door.",
   "TimeExpired": "Time Expired",
   "TimeExpiredDesc": "Your time is expired",
-  "TimeLeft": "Time Left:",
+  "TimeLeft": "Lock open in:",
   "TimeUnlimited": "Time Unlimited",
   "CloseNow": "Close Now",
   "OpenNow": "Open Now",

@@ -66,10 +66,11 @@
   "PrivacyPolicy": "Politique de confidentialité",
   "TermsOfUse": "Conditions d'utilisation",
 
-  "DoorIsOpen": "Door is open, locking not possible",
-  "DoorIsOpenStep1": "1. Close door - press and hold",
-  "DoorIsOpenStep2": "2. Scan QR code to lock door",
-  "DoorIsOpenBtnSuccess": "ok",
+  "DoorIsOpen": "La porte est ouverte, verrouillage impossible.",
+  "DoorIsOpen2": "La porte n'est pas verrouillée",
+  "DoorIsOpenStep1": "1. Fermez la porte - appuyez et maintenez.",
+  "DoorIsOpenStep2": "2. Scannez le code QR pour verrouiller la porte.",
+  "DoorIsOpenBtnSuccess": "Ok",
 
 
 
