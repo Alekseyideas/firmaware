@@ -15,6 +15,10 @@
   "Wrong_admin_code": "Code administrateur incorrect",
   "enter_admin_code": "Mode administrateur",
   "main_title": "Fabriquée en Autriche",
+
+  "main_title1": "Smart Locks",
+  "main_title2": "Made in Austria",
+
   "enter_digit": "Entrez un code à 6 chiffres pour accéder",
   "Wrong_factory_code": "Code usine incorrect",
   "enter_factory_code": "Entrez le code usine",
@@ -61,7 +65,14 @@
   "SelectDevice": "Veuillez sélectionner l'appareil",
   "PrivacyPolicy": "Politique de confidentialité",
   "TermsOfUse": "Conditions d'utilisation",
-  "DoorIsOpen": "La porte est ouverte",
+
+  "DoorIsOpen": "Door is open, locking not possible",
+  "DoorIsOpenStep1": "1. Close door - press and hold",
+  "DoorIsOpenStep2": "2. Scan QR code to lock door",
+  "DoorIsOpenBtnSuccess": "ok",
+
+
+
   "DoorIsOpenDesc": "La porte n'est pas correctement verrouillée, veuillez fermer la porte et scanner à nouveau le QR.",
   "DoorIsOpenDesc2": "La porte doit être fermée avant de verrouiller, veuillez fermer la porte.",
   "TimeExpired": "Temps écoulé",
