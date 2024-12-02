@@ -89,5 +89,7 @@
   "isLocked": "PSLOCK est verrouillé",
   "failed_connect": "ECHEC DE CONNEXION",
   "failed_connect_desc": "Essayez à nouveau, si cela ne fonctionne pas, fermez l’application. Désactivez et réactivez le Bluetooth.Réessayez.",
-  "genQr": "Générer QR CODE"
+  "genQr": "Générer QR CODE",
+  "skip": "Passer",
+  "keep_door_closed": "Gardez la porte fermée."
 }
