@@ -68,8 +68,8 @@
 
   "DoorIsOpen": "Door is open, locking not possible",
   "DoorIsOpen2": "Door is not locked",
-  "DoorIsOpenStep1": "1. Close door - press and hold",
-  "DoorIsOpenStep2": "2. Scan QR code to lock door",
+  "DoorIsOpenStep1": "1. Keep the door closed",
+  "DoorIsOpenStep2": "2. Scan the QR code",
   "DoorIsOpenBtnSuccess": "Ok",
 
   "DoorIsOpenDesc": "Door is not successfully locked, please close the door and scan QR again",
